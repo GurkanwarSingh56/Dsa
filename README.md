@@ -6,8 +6,8 @@ I am solving 150 DSA questions with consistency: 2 questions per day.
 - Total questions: 150
 - Daily target: 2 questions
 - Total duration: 75 days
-- Start date: __________
-- Target end date: __________
+- Start date: 20 March 2026
+  
 
 ## Daily Rule
 - Solve 2 new questions every day
@@ -28,20 +28,11 @@ Update this after each day.
 ## Folder Structure
 - Problem solutions are stored in this folder.
 
-Current files:
-- secondLargest.cpp
-- thirdLargest.cpp
-- moveZero.cpp
-- rotatedOrSorted.cpp
+
 
 ## Daily Log Template
 Copy this block daily and update values:
 
-### Day __
-- Date: __________
-- Q1: Problem name + link
-- Q2: Problem name + link
-- Notes: 1-2 lines about what I learned
 
 ## Milestones
 - 30 questions: basics strong
